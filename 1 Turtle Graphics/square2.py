@@ -15,7 +15,7 @@ ted = turtle.Pen()
 # Ted-g yast melhii helbertei bolgoy
 ted.shape("turtle")
 
-# Dogol morond orson code-g 4 udaa davtakh:
+# Dogol morond orson code-g 4 udaa davtah:
 for x in range(4):
     # Bagtsalsan 2 mor code n 1 block bolj hamtdaa ajillana
     ted.forward(100)
