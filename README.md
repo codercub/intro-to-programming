@@ -1,3 +1,3 @@
 # Introduction to Programming
 
-### 1 - Turtle graphics
+### Lecture 1 - Turtle graphics:
