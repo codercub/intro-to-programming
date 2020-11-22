@@ -2,7 +2,7 @@
 
 # Written by Zolbayar Magsar
 # Nov 18, 2020
-# Olon taltuud
+# Olon ontsogtuud
 
 # https://en.wikipedia.org/wiki/Regular_polygon
 
