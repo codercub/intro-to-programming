@@ -2,7 +2,9 @@
 
 # Written by Zolbayar Magsar
 # Nov 18, 2020
-# Olon talt dursuud
+# Olon taltuud
+
+# https://en.wikipedia.org/wiki/Regular_polygon
 
 import turtle
 
