@@ -10,6 +10,9 @@ import turtle
 
 ted = turtle.Pen()
 
+# Ted-iin hurdiig nemeh
+ted.speed(0)
+
 # Daraah ajluudiig hiih:
 # 1. Davtaltiin too bolon ergeltiin gradusiin hoorondiin hamaarliig ajiglah
 # 2. Toirgiin radius 360 baidgiig sanah
