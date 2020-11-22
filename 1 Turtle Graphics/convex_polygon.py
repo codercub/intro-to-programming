@@ -10,10 +10,12 @@ import turtle
 
 ted = turtle.Pen()
 
-# Davtaltiin too bolon ergeltiin gradusiin hoorondiin hamaarliig ajiglah
-# Toirgiin radius 360 baidgiig sanah
-# Dorvoljnii huvid 4 * 90 = 360, gurvaljnii huvid 3 * 120 = 360 baina
-# Asuultiin temdguudiin orond tohiroh utguudiig ogch 5, 6, 8, 10 talt dursuud zurah
+# Daraah ajluudiig hiih:
+# 1. Davtaltiin too bolon ergeltiin gradusiin hoorondiin hamaarliig ajiglah
+# 2. Toirgiin radius 360 baidgiig sanah
+# 3. Dorvoljnii huvid 4 * 90 = 360, gurvaljnii huvid 3 * 120 = 360 baina
+# 4. Asuultiin temdguudiin orond tohiroh utguudiig ogch 5, 6, 8, 10 talt dursuud zurah
+# 5. Davtaltiig ihesgej, ergeltiin ontsog bolon taluudiig bagasgasnaar tsagirag zurah
 for x in range(?):
     # Gurvaljnii taliig 200 pixel hemjeetei zurna
     ted.forward(100)
