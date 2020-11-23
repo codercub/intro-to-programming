@@ -4,9 +4,8 @@
 # Nov 17, 2020
 # Function ashiglaagui huvilbar
 
-import turtle
+import turtle as t
 
-t = turtle.Pen()
 t.speed(0)
 
 # Ulaan dorvoljin
