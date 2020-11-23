@@ -1,3 +1,8 @@
+# number_eight.py
+
+# Written by Zolbayar Magsar
+# Nov 23, 2020
+
 import turtle as t
 
 t.speed(0)
