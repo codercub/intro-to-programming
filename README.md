@@ -6,6 +6,7 @@
 - [Turtle graphics](https://en.wikipedia.org/wiki/Turtle_graphics) гэж юу вэ?
 - [Өнгөнүүд](https://trinket.io/docs/colors)
 - [Олон өнцөгт](https://en.wikipedia.org/wiki/Regular_polygon)
+- Teach Your Kids to Code номын [файлууд](https://nostarch.com/download/Teach_Your_Kids_to_Code_program_files.zip)
 
 #### Хичээлийн файлууд:
 1. square1.py
