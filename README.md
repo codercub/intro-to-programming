@@ -5,6 +5,7 @@
 #### Агуулга:
 - [Turtle graphics](https://en.wikipedia.org/wiki/Turtle_graphics) гэж юу вэ?
 - [Өнгөнүүд](https://trinket.io/docs/colors)
+- [Координатын хавтгай](https://en.wikipedia.org/wiki/Cartesian_coordinate_system)
 - [Олон өнцөгт](https://en.wikipedia.org/wiki/Regular_polygon)
 
 #### Хичээлийн файлууд:
