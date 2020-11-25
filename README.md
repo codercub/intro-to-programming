@@ -12,11 +12,11 @@
 1. square1.py
 2. square2.py
 3. triangle.py
-4. convex_polygon.py
+4. convex_polygon.py (даалгавартай)
 5. number_eight.py
-6. star_polygon.py
+6. star_polygon.py (даалгавартай)
 7. stickman.py
-8. sun.py
+8. sun.py (даалгавартай)
 9. microsoft_logo.py
 
 ### Нэмэлт материалууд:
