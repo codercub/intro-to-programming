@@ -13,11 +13,12 @@
 2. square2.py
 3. triangle.py
 4. convex_polygon.py (даалгавартай)
-5. number_eight.py
-6. star_polygon.py (даалгавартай)
-7. stickman.py
-8. sun.py (даалгавартай)
-9. microsoft_logo.py
+5. star_polygon.py (даалгавартай)
+6. number_eight1.py
+7. number_eight2.py
+8. stickman.py
+9. sun.py (даалгавартай)
+10. microsoft_logo.py
 
 ### Нэмэлт материалууд:
 - [Албан ёсны documentation](https://docs.python.org/3/library/turtle.html)
