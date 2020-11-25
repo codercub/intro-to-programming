@@ -14,6 +14,6 @@
 4. polygon.py
 5. microsoft_logo.py
 
-### References:
+### Нэмэлт материалууд:
 - [Албан ёсны documentation](https://docs.python.org/3/library/turtle.html)
 - Teach Your Kids to Code номын [файлууд](https://nostarch.com/download/Teach_Your_Kids_to_Code_program_files.zip)
