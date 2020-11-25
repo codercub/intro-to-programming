@@ -1,4 +1,4 @@
-# Course 1: Introduction to Programming
+# COURSE 1: Introduction to Programming
 
 ### Хичээл 1 - Turtle graphics зураг зурах:
 
