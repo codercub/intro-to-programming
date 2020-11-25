@@ -3,6 +3,8 @@
 # Written by Zolbayar Magsar
 # Nov 23, 2020
 
+# for davtaltiin orond .circle() ashiglan hurdan ur dund hureh
+
 import turtle as t
 
 t.speed(0)
@@ -10,12 +12,8 @@ t.bgcolor("red")
 t.pencolor("white")
 t.pensize(25)
 
-for x in range(360):
-    t.forward(1)
-    t.left(1)
+t.circle(60)
 
-for x in range(360):
-    t.forward(1.2)
-    t.right(1)
+t.circle(-70)
     
 t.hideturtle()

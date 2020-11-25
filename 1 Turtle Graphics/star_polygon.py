@@ -4,11 +4,7 @@
 # Nov 25, 2020
 # Olon ontsogtuud
 
-# https://en.wikipedia.org/wiki/Regular_polygon
-
 import turtle
-
-ted = turtle.Pen()
 
 # Daraah ajluudiig hiih:
 # 1. Davtaltiin too bolon ergeltiin gradusiin hoorondiin hamaarliig ajiglah, uund:
@@ -18,7 +14,7 @@ ted = turtle.Pen()
 # - 8 hoshuunii huvid niit radius 180 x 6 = 1080
 
 for x in range(5):
-    ted.forward(300)
-    ted.right(144)
+    turtle.forward(300)
+    turtle.right(144)
 
-ted.hideturtle()
+turtle.hideturtle()

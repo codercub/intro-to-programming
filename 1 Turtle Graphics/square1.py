@@ -4,37 +4,29 @@
 # Nov 16, 2020
 # Davtalt ashiglaagui huvilbar
 
-# https://en.wikipedia.org/wiki/Turtle_graphics
-
 # Turtle nomiin sang ashiglay
 import turtle
 
-# Ted the turtle - manai gol dur
-ted = turtle.Pen()
+# Uragshaa 100 pixel-eer yavaarai, yast melhii!
+turtle.forward(100)
 
-# Ted-g yast melhii helbertei bolgoy
-ted.shape("turtle")
+# Zuun tiish 90 gradusaar ergeerei, yast melhii!
+turtle.left(90)
 
-# Uragshaa 100 pixel-eer yavaarai, Ted!
-ted.forward(100)
+# Uragshaa 100 pixel-eer yavaarai, yast melhii!
+turtle.forward(100)
 
-# Zuun tiish 90 gradusaar ergeerei, Ted!
-ted.left(90)
+# Zuun tiish 90 gradusaar ergeerei, yast melhii!
+turtle.left(90)
 
-# Uragshaa 100 pixel-eer yavaarai, Ted!
-ted.forward(100)
+# Uragshaa 100 pixel-eer yavaarai, yast melhii!
+turtle.forward(100)
 
-# Zuun tiish 90 gradusaar ergeerei, Ted!
-ted.left(90)
+# Zuun tiish 90 gradusaar ergeerei, yast melhii!
+turtle.left(90)
 
-# Uragshaa 100 pixel-eer yavaarai, Ted!
-ted.forward(100)
+# Uragshaa 100 pixel-eer yavaarai, yast melhii!
+turtle.forward(100)
 
-# Zuun tiish 90 gradusaar ergeerei, Ted!
-ted.left(90)
-
-# Uragshaa 100 pixel-eer yavaarai, Ted!
-ted.forward(100)
-
-# Zuun tiish 90 gradusaar ergeerei, Ted!
-ted.left(90)
+# Zuun tiish 90 gradusaar ergeerei, yast melhii!
+turtle.left(90)

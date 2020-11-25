@@ -4,14 +4,10 @@
 # Nov 18, 2020
 # Olon ontsogtuud
 
-# https://en.wikipedia.org/wiki/Regular_polygon
-
 import turtle
 
-ted = turtle.Pen()
-
-# Ted-iin hurdiig nemeh
-ted.speed(0)
+# Hurdan zurah
+turtle.speed(0)
 
 # Daraah ajluudiig hiih:
 # 1. Davtaltiin too bolon ergeltiin gradusiin hoorondiin hamaarliig ajiglah, uund:
@@ -21,7 +17,7 @@ ted.speed(0)
 # 3. Davtaltiig ihesgej, ergeltiin ontsog bolon taluudiig bagasgasnaar toirog zurah
 for x in range(?):
     # Gurvaljnii taliig 200 pixel hemjeetei zurna
-    ted.forward(100)
-    ted.left(?)
+    turtle.forward(100)
+    turtle.left(?)
 
-ted.hideturtle()
+turtle.hideturtle()
