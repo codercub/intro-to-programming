@@ -11,8 +11,12 @@
 1. square1.py
 2. square2.py
 3. triangle.py
-4. polygon.py
-5. microsoft_logo.py
+4. convex_polygon.py
+5. number_eight.py
+6. star_polygon.py
+7. stickman.py
+8. sun.py
+9. microsoft_logo.py
 
 ### Нэмэлт материалууд:
 - [Албан ёсны documentation](https://docs.python.org/3/library/turtle.html)
