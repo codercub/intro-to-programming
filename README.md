@@ -24,6 +24,7 @@
 
 #### Агуулга:
 - [Арифметик прогресс](https://en.wikipedia.org/wiki/Arithmetic_progression)
+- [Red Green Blue](https://en.wikipedia.org/wiki/RGB_color_model) өнгөний модел
 
 #### Хичээлийн файлууд:
 1. square_tunnel.py
