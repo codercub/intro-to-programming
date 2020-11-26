@@ -19,7 +19,7 @@ turtle.pensize(5)
 for x in range(3):
     # Gurvaljnii taliig 200 pixel hemjeetei zurna
     turtle.forward(200)
-    # Adil talt gurvaljnii dotood ontsog 60 gradus uchir gadaad ergeltiin ontsog 120 baina
+    # Adil talt gurvaljnii gadaad ontsog 120
     turtle.left(120)
 
 # Zurj duusaad uzgiig nuuh
