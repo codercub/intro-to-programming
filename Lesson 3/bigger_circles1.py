@@ -10,5 +10,3 @@ for x in range(5):
     t.setpos(0, -x * 25 - 50)
     t.pendown()
     t.circle(x * 25 + 50)
-
-    
