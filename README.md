@@ -19,13 +19,13 @@
 8. stickman.py
 9. sun.py (даалгавартай)
 10. microsoft_logo.py
-
+----------------
 ### Хичээл 2 - Хувьсагч, оролт/гаралт:
 
 #### Агуулга:
 - [Хувьсагч ба төрлүүд](https://www.learnpython.org/en/Variables_and_Types)
 - [for давталт](https://www.digitalocean.com/community/tutorials/how-to-construct-for-loops-in-python-3)
-
+----------------
 ### Хичээл 3 - Turtle graphics анимейшн хийх:
 
 #### Агуулга:
@@ -37,7 +37,7 @@
 #### Хичээлийн файлууд:
 1. square_tunnel.py
 2. infinity.py
-
+----------------
 ### Нэмэлт материалууд:
 - [Албан ёсны documentation](https://docs.python.org/3/library/turtle.html)
 - Teach Your Kids to Code номын [файлууд](https://nostarch.com/download/Teach_Your_Kids_to_Code_program_files.zip)
