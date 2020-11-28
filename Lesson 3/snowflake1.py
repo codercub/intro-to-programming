@@ -1,6 +1,6 @@
 # snowflake1.py
 
-# Written by Zolbayar Magsar
+# Written by @zmagsar
 # Nov 23, 2020
 
 import turtle as t

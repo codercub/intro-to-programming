@@ -1,6 +1,6 @@
 # square1.py
 
-# Written by Zolbayar Magsar
+# Written by @zmagsar
 # Nov 16, 2020
 # Davtalt ashiglaagui huvilbar
 

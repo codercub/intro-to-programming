@@ -1,6 +1,6 @@
 # convex_polygon.py
 
-# Written by Zolbayar Magsar
+# Written by @zmagsar
 # Nov 18, 2020
 # Olon ontsogtuud
 

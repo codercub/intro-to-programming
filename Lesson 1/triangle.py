@@ -1,6 +1,6 @@
 # triangle.py
 
-# Written by Zolbayar Magsar
+# Written by @zmagsar
 # Nov 18, 2020
 # Adil talt gurvaljin
 

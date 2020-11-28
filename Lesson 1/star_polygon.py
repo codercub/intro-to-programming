@@ -1,6 +1,6 @@
 # star_polygon.py
 
-# Written by Zolbayar Magsar
+# Written by @zmagsar
 # Nov 25, 2020
 # Olon ontsogtuud
 

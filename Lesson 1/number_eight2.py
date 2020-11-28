@@ -1,6 +1,6 @@
 # number_eight.py
 
-# Written by Zolbayar Magsar
+# Written by @zmagsar
 # Nov 23, 2020
 
 # for davtaltiin orond .circle() ashiglan hurdan ur dund hureh

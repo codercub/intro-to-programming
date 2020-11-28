@@ -1,6 +1,6 @@
 # stickman.py
 
-# Written by Zolbayar Magsar
+# Written by @zmagsar
 # Sep 19, 2020
 
 import turtle as t

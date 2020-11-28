@@ -1,6 +1,6 @@
 # square_tunnel.py
 
-# Written by Zolbayar Magsar
+# Written by @zmagsar
 # Jul 20, 2020
 
 import turtle as t

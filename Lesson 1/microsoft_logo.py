@@ -1,6 +1,6 @@
 # microsoft_logo.py
 
-# Written by Zolbayar Magsar
+# Written by @zmagsar
 # Nov 17, 2020
 # Function ashiglaagui huvilbar
 
