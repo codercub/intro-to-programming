@@ -20,6 +20,12 @@
 9. sun.py (даалгавартай)
 10. microsoft_logo.py
 
+### Хичээл 2 - Хувьсагч, оролт/гаралт:
+
+#### Агуулга:
+- [Хувьсагч ба төрлүүд](https://www.learnpython.org/en/Variables_and_Types)
+- [for давталт](https://www.digitalocean.com/community/tutorials/how-to-construct-for-loops-in-python-3)
+
 ### Хичээл 3 - Turtle graphics анимейшн хийх:
 
 #### Агуулга:
