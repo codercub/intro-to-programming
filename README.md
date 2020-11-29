@@ -24,6 +24,7 @@
 
 #### Агуулга:
 - [Хувьсагч ба төрлүүд](https://www.learnpython.org/en/Variables_and_Types)
+- [Хувьсагчийн санах ойн хамаарал, хуваарилалт](https://www.oreilly.com/library/view/python-in-a/0596001886/ch04s03.html)
 - [for давталт](https://www.digitalocean.com/community/tutorials/how-to-construct-for-loops-in-python-3)
 ----------------
 ### Хичээл 3 - Turtle graphics анимейшн хийх:
