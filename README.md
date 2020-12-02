@@ -3,7 +3,7 @@
 ### Хичээл 1 - Turtle graphics зураг зурах:
 
 #### Агуулга:
-- [Turtle graphics](https://en.wikipedia.org/wiki/Turtle_graphics) гэж юу вэ?
+- [Turtle graphics гэж юу вэ?](https://en.wikipedia.org/wiki/Turtle_graphics)
 - [Өнгөнүүд](https://trinket.io/docs/colors)
 - [Координатын хавтгай](https://en.wikipedia.org/wiki/Cartesian_coordinate_system)
 - [Олон өнцөгт](https://en.wikipedia.org/wiki/Regular_polygon)
@@ -34,6 +34,18 @@
 - [for давталт](https://www.digitalocean.com/community/tutorials/how-to-construct-for-loops-in-python-3)
 - [range() функц](https://www.geeksforgeeks.org/python-range-function/)
 - [Red Green Blue](https://en.wikipedia.org/wiki/RGB_color_model) өнгөний модел
+
+#### Хичээлийн файлууд:
+1. square_tunnel.py
+2. infinity.py
+----------------
+### Хичээл 4 - Функц:
+
+#### Агуулга:
+- [Функц гэж юу вэ?](https://www.learnpython.org/en/Functions)
+- [Функцын тухай дэлгэрэнгүй](https://realpython.com/defining-your-own-python-function/)
+- [return утгын тухай дэлгэрэнгүй](https://realpython.com/python-return-statement/)
+- [main() функцын тухай](https://realpython.com/python-main-function/#a-basic-python-main/)
 
 #### Хичээлийн файлууд:
 1. square_tunnel.py
