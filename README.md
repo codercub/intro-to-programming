@@ -54,3 +54,4 @@
 ### Нэмэлт материалууд:
 - [Албан ёсны documentation](https://docs.python.org/3/library/turtle.html)
 - Teach Your Kids to Code номын [файлууд](https://nostarch.com/download/Teach_Your_Kids_to_Code_program_files.zip)
+- [Мэдлэгээ шалгацгаая!](https://realpython.com/quizzes/)
