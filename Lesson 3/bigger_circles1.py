@@ -7,6 +7,6 @@ import turtle as t
 
 for x in range(5):
     t.penup()
-    t.setpos(0, -x * 25 - 50)
+    t.goto(0, -x * 25 - 50) # -50 -75 -100 -125 -150
     t.pendown()
-    t.circle(x * 25 + 50)
+    t.circle(x * 25 + 50) # 50 75 100 125 150

@@ -10,7 +10,7 @@ t.color("red")
 
 for x in range(100):
     t.penup()
-    t.setpos(-300 + x * 10, -300 + x * 10)
+    t.goto(-300 + x * 10, -300 + x * 10)
     t.pendown()
     t.left(1)
     t.circle(50 + x * 10)
