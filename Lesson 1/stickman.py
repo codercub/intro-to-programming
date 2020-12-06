@@ -5,6 +5,9 @@
 
 import turtle as t
 
+# window title
+t.title("Stickman")
+
 # head
 t.circle(50)
 

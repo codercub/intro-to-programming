@@ -6,6 +6,7 @@
 
 import turtle as t
 
+t.title("Microsoft Corporation")
 t.speed(0)
 
 # Dorvoljing ogogdson ongoor zurah function

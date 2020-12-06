@@ -5,6 +5,7 @@
 
 import turtle as t
 
+t.title("Octagonal Star With Rainbow Colors")
 t.pensize(3)
 colors = ["red", "orange", "yellow", "green", "blue", "indigo", "violet", "white"]
 

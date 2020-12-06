@@ -5,6 +5,7 @@
 
 import turtle as t
 
+t.title("Captain America's Shield")
 t.speed(0)
 t.bgcolor("black")
 colors = ["crimson", "white", "crimson", "dark blue"]
