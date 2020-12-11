@@ -36,8 +36,18 @@
 - [Red Green Blue](https://en.wikipedia.org/wiki/RGB_color_model) өнгөний модел
 
 #### Хичээлийн файлууд:
-1. square_tunnel.py
-2. infinity.py
+1. bigger_circles1.py
+2. bigger_circles2.py
+3. bigger_circles3.py
+4. bigger_circles4.py
+5. infinity.py
+6. snowflake1.py
+7. snowflake2.py
+8. square_tunnel.py
+9. octagram_steps.py
+10. triangular_steps1.py
+11. triangular_steps2.py
+
 ----------------
 ### Хичээл 4 - Функц:
 
