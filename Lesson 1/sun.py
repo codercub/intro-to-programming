@@ -10,28 +10,21 @@ t.bgcolor("sky blue")
 t.color("gold", "gold")
 t.pensize(5)
 
-# Delgetsiin gold zurahiin tuld uzgiig narnii radiusaar doosh zooh
-t.penup()
-t.goto(0, -100)
-t.pendown()
-
 # Nar
-t.begin_fill()
-t.circle(100)
-t.end_fill()
+t.dot(200)
 
 # Tsatsrag 1
 t.penup()
 t.goto(110, 0)
 t.pendown()
-t.forward(100)
+t.forward(200)
 
 # Tsatsrag 2
 t.penup()
 t.goto(80, 80)
 t.pendown()
 t.left(45)
-t.forward(100)
+t.forward(200)
 
 # Tsatsrag 3
 
