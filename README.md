@@ -48,8 +48,8 @@
 - [main() функцын тухай](https://realpython.com/python-main-function/#a-basic-python-main/)
 
 #### Хичээлийн файлууд:
-1. square_tunnel.py
-2. infinity.py
+1. sun_function.py
+2. microsoft_logo_function.py
 ----------------
 ### Нэмэлт материалууд:
 - [Turtle албан ёсны documentation](https://docs.python.org/3/library/turtle.html)
