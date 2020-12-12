@@ -38,19 +38,20 @@
 
 #### Хичээлийн файлууд:
 1. colofrul_square_spiral.py
-2. captain_america.py
-3. octagonal_star.py
-4. bigger_circles1.py
-5. bigger_circles2.py
-6. bigger_circles3.py
-7. bigger_circles4.py
-8. infinity.py
-9. snowflake1.py
-10. snowflake2.py
-11. square_tunnel.py
-12. octagram_steps.py
-13. triangular_steps1.py
-14. triangular_steps2.py
+2. colorful_star_spiral.py
+3. captain_america.py
+4. octagonal_star.py
+5. bigger_circles1.py
+6. bigger_circles2.py
+7. bigger_circles3.py
+8. bigger_circles4.py
+9. infinity.py
+10. snowflake1.py
+11. snowflake2.py
+12. square_tunnel.py
+13. octagram_steps.py
+14. triangular_steps1.py
+15. triangular_steps2.py
 
 ----------------
 ### Хичээл 4 - Функц:
