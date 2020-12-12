@@ -26,6 +26,10 @@
 - [Хувьсагч, өгөгдлийн төрлүүд](https://www.learnpython.org/en/Variables_and_Types)
 - [Хувьсагчийн санах ойн хамаарал, хуваарилалт](https://www.oreilly.com/library/view/python-in-a/0596001886/ch04s03.html)
 - [Обьект, хувьсагчийг нэрлэх нь](https://realpython.com/python-variables/)
+
+#### Хичээлийн файлууд:
+1. about_me.py
+2. rectangle.py
 ----------------
 ### Хичээл 3 - Дараалал:
 
