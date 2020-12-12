@@ -27,7 +27,7 @@
 - [Хувьсагчийн санах ойн хамаарал, хуваарилалт](https://www.oreilly.com/library/view/python-in-a/0596001886/ch04s03.html)
 - [Обьект, хувьсагчийг нэрлэх нь](https://realpython.com/python-variables/)
 ----------------
-### Хичээл 3 - Turtle graphics анимейшн хийх:
+### Хичээл 3 - Дараалал:
 
 #### Агуулга:
 - [Арифметик прогресс](https://en.wikipedia.org/wiki/Arithmetic_progression)
@@ -36,17 +36,20 @@
 - [Red Green Blue](https://en.wikipedia.org/wiki/RGB_color_model) өнгөний модел
 
 #### Хичээлийн файлууд:
-1. bigger_circles1.py
-2. bigger_circles2.py
-3. bigger_circles3.py
-4. bigger_circles4.py
-5. infinity.py
-6. snowflake1.py
-7. snowflake2.py
-8. square_tunnel.py
-9. octagram_steps.py
-10. triangular_steps1.py
-11. triangular_steps2.py
+1. colofrul_square_spiral.py
+2. captain_america.py
+3. octagonal_star.py
+4. bigger_circles1.py
+5. bigger_circles2.py
+6. bigger_circles3.py
+7. bigger_circles4.py
+8. infinity.py
+9. snowflake1.py
+10. snowflake2.py
+11. square_tunnel.py
+12. octagram_steps.py
+13. triangular_steps1.py
+14. triangular_steps2.py
 
 ----------------
 ### Хичээл 4 - Функц:
