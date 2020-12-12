@@ -60,7 +60,7 @@
 ### Хичээл 4 - Нөхцөл:
 
 #### Агуулга:
-
+- [if, else, elif илэрхийллүүд](https://www.programiz.com/python-programming/if-elif-else)
 
 #### Хичээлийн файлууд:
 
