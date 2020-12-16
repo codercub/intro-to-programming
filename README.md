@@ -61,6 +61,7 @@
 
 #### Агуулга:
 - [if, else, elif илэрхийллүүд](https://www.programiz.com/python-programming/if-elif-else)
+- [Нөхцөлт илэрхийллүүд - дэлгэрэнгүй](https://realpython.com/python-conditional-statements/)
 
 #### Хичээлийн файлууд:
 
