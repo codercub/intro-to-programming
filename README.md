@@ -37,7 +37,7 @@
 - [Арифметик прогресс](https://en.wikipedia.org/wiki/Arithmetic_progression)
 - [for давталт](https://www.digitalocean.com/community/tutorials/how-to-construct-for-loops-in-python-3)
 - [range() функц](https://www.geeksforgeeks.org/python-range-function/)
-- [List-ийн тухай](https://www.digitalocean.com/community/tutorials/understanding-lists-in-python-3)
+- [List - нийлмэл төрөл](https://www.digitalocean.com/community/tutorials/understanding-lists-in-python-3)
 - [Red Green Blue](https://en.wikipedia.org/wiki/RGB_color_model) өнгөний модел
 
 #### Хичээлийн файлууд:
@@ -61,6 +61,7 @@
 
 #### Агуулга:
 - [if, else, elif илэрхийллүүд](https://www.programiz.com/python-programming/if-elif-else)
+- [Нөхцөлт илэрхийллүүд - дэлгэрэнгүй](https://realpython.com/python-conditional-statements/)
 
 #### Хичээлийн файлууд:
 
