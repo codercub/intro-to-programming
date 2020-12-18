@@ -62,6 +62,7 @@
 #### Агуулга:
 - [if, else, elif илэрхийллүүд](https://www.programiz.com/python-programming/if-elif-else)
 - [Нөхцөлт илэрхийллүүд - дэлгэрэнгүй](https://realpython.com/python-conditional-statements/)
+- [3 тооны ихийг олох жишээ програм](https://www.programiz.com/python-programming/examples/largest-number-three)
 
 #### Хичээлийн файлууд:
 1. if_login.py (даалгавартай)
