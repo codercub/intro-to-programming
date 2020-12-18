@@ -64,6 +64,9 @@
 - [Нөхцөлт илэрхийллүүд - дэлгэрэнгүй](https://realpython.com/python-conditional-statements/)
 
 #### Хичээлийн файлууд:
+1. if_login.py (даалгавартай)
+2. calculator.py
+3. if_shapes.py
 
 ----------------
 ### Хичээл 5 - Функц:
