@@ -1,6 +1,6 @@
 # COURSE 1: Introduction to Programming
 
-### Хичээл 1 - Turtle graphics зураг зурах:
+### Хичээл 1 - Turtle график:
 
 #### Агуулга:
 - [Turtle graphics гэж юу вэ?](https://en.wikipedia.org/wiki/Turtle_graphics)
