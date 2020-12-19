@@ -1,6 +1,6 @@
 # COURSE 1: Introduction to Programming
 
-### Хичээл 1 - Turtle graphics зураг зурах:
+### Хичээл 1 - Turtle график:
 
 #### Агуулга:
 - [Turtle graphics гэж юу вэ?](https://en.wikipedia.org/wiki/Turtle_graphics)
@@ -62,8 +62,12 @@
 #### Агуулга:
 - [if, else, elif илэрхийллүүд](https://www.programiz.com/python-programming/if-elif-else)
 - [Нөхцөлт илэрхийллүүд - дэлгэрэнгүй](https://realpython.com/python-conditional-statements/)
+- [3 тооны ихийг олох жишээ програм](https://www.programiz.com/python-programming/examples/largest-number-three)
 
 #### Хичээлийн файлууд:
+1. if_login.py (даалгавартай)
+2. calculator.py
+3. if_shapes.py
 
 ----------------
 ### Хичээл 5 - Функц:
