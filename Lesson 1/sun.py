@@ -7,7 +7,7 @@ import turtle as t
 
 t.speed(0)
 t.bgcolor("sky blue")
-t.color("gold", "gold")
+t.pencolor("gold")
 t.pensize(5)
 
 # Nar
