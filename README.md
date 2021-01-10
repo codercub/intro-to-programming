@@ -69,9 +69,21 @@
 1. if_login.py (даалгавартай)
 2. calculator.py
 3. if_shapes.py
-
 ----------------
-### Хичээл 5 - Функц:
+### Хичээл 5 - While давталт, random модуль:
+
+#### Агуулга:
+- [if, else, elif илэрхийллүүд](https://www.programiz.com/python-programming/if-elif-else)
+- [Нөхцөлт илэрхийллүүд - дэлгэрэнгүй](https://realpython.com/python-conditional-statements/)
+- [3 тооны ихийг олох жишээ програм](https://www.programiz.com/python-programming/examples/largest-number-three)
+- [Нөхцөлт үйлдлүүд - дэлгэрэнгүй](https://thomas-cokelaer.info/tutorials/python/boolean.html)
+
+#### Хичээлийн файлууд:
+1. if_login.py (даалгавартай)
+2. calculator.py
+3. if_shapes.py
+----------------
+### Хичээл 6 - Функц:
 
 #### Агуулга:
 - [Функц гэж юу вэ?](https://www.learnpython.org/en/Functions)
