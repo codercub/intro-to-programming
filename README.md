@@ -70,13 +70,11 @@
 2. calculator.py
 3. if_shapes.py
 ----------------
-### Хичээл 5 - While давталт, random модуль:
+### Хичээл 5 - Нөхцөлт давталт, random модуль:
 
 #### Агуулга:
-- [if, else, elif илэрхийллүүд](https://www.programiz.com/python-programming/if-elif-else)
-- [Нөхцөлт илэрхийллүүд - дэлгэрэнгүй](https://realpython.com/python-conditional-statements/)
-- [3 тооны ихийг олох жишээ програм](https://www.programiz.com/python-programming/examples/largest-number-three)
-- [Нөхцөлт үйлдлүүд - дэлгэрэнгүй](https://thomas-cokelaer.info/tutorials/python/boolean.html)
+- [Python while loop](https://www.programiz.com/python-programming/while-loop)
+- [Нөхцөлт давталт - дэлгэрэнгүй](https://realpython.com/python-while-loop/)
 
 #### Хичээлийн файлууд:
 1. if_login.py (даалгавартай)
