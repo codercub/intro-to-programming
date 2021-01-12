@@ -1,4 +1,4 @@
-# number_guessing_game.py
+# guessing_game_number.py
 
 # Written by @zmagsar
 # Jan 12, 2021
