@@ -69,9 +69,19 @@
 1. if_login.py (даалгавартай)
 2. calculator.py
 3. if_shapes.py
-
 ----------------
-### Хичээл 5 - Функц:
+### Хичээл 5 - Нөхцөлт давталт, random модуль:
+
+#### Агуулга:
+- [Python while loop](https://www.programiz.com/python-programming/while-loop)
+- [Нөхцөлт давталт - дэлгэрэнгүй](https://realpython.com/python-while-loop/)
+
+#### Хичээлийн файлууд:
+1. if_login.py (даалгавартай)
+2. calculator.py
+3. if_shapes.py
+----------------
+### Хичээл 6 - Функц:
 
 #### Агуулга:
 - [Функц гэж юу вэ?](https://www.learnpython.org/en/Functions)
