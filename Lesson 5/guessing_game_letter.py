@@ -22,9 +22,9 @@ attempt = 1
 
 while letter != guess:
     if letter > guess:
-        print("Seek after", guess)
+        print("It's after", guess)
     else:
-        print("Seek before", guess)
+        print("It's before", guess)
         
     guess = input("Enter a letter: ")
     attempt += 1
