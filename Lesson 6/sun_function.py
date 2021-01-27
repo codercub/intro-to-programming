@@ -27,8 +27,8 @@ def main():
     t.dot(200)
 
     # sun ray
-    for x in range(8):
-        sun_ray(x_coor[x], y_coor[x], 200)
+    for i in range(8):
+        sun_ray(x_coor[i], y_coor[i], 200)
 
     t.hideturtle()
 

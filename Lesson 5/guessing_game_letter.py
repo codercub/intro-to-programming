@@ -21,6 +21,9 @@ guess = input("Enter a letter: ")
 attempt = 1
 
 while letter != guess:
+    if attempt == 3:
+        print("Game over.")
+        break
     if letter > guess:
         print("It's after", guess)
     else:
@@ -28,9 +31,6 @@ while letter != guess:
         
     guess = input("Enter a letter: ")
     attempt += 1
-    if attempt == 4:
-        print("Game over.")
-        break
 
 else:
     print("You guessed it right,", letter, "is the letter!")
