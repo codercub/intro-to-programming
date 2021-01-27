@@ -17,8 +17,7 @@ while guess != number:
     if attempt == 3:
         print("You've made 3 attempts! Game over.")
         break
-    
-    if guess > number:
+    elif guess > number:
         print("Go lower!")
     else:
         print("Go higher!")

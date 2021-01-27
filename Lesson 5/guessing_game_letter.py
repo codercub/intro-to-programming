@@ -24,11 +24,10 @@ while letter != guess:
     if attempt == 3:
         print("Game over.")
         break
-    if letter > guess:
+    elif letter > guess:
         print("It's after", guess)
     else:
         print("It's before", guess)
-        
     guess = input("Enter a letter: ")
     attempt += 1
 
