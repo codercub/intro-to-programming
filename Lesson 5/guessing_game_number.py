@@ -23,7 +23,7 @@ while guess != number:
         print("Go higher!")
     guess = int(input("Enter number 1~10: "))
     attempt += 1
-    
+
 # Toog zov taasan tohioldold
 else:
     print("You guessed it right,", number, "is the number!")
