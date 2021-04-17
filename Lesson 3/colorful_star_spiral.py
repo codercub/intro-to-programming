@@ -6,7 +6,7 @@
 import turtle as t
 
 t.pensize(5)
-colors = ["red", "pink", "brown", "violet", "purple"]
+colors = ["red", "pink", "brown", "orange", "purple"]
 
 for x in range(100):
     t.pencolor(colors[x % 5])
