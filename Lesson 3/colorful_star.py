@@ -7,10 +7,11 @@ import turtle as t
 
 t.speed(0)
 t.pensize(20)
-colors = ["magenta", "purple", "navy", "crimson", "cyan"]
+
+COLORS = ["magenta", "purple", "navy", "crimson", "cyan"]
 
 for x in range(5):
-    t.color(colors[x])
+    t.color(COLORS[x])
     t.forward(200)
     t.right(144)
 

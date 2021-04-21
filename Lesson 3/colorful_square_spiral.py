@@ -5,9 +5,9 @@
 
 import turtle as t
 
-colors = ["red", "green", "blue", "yellow"]
+COLORS = ["red", "green", "blue", "yellow"]
 
 for x in range(100):
-    t.pencolor(colors[x % 4])
+    t.pencolor(COLORS[x % 4])
     t.forward(x)
     t.left(90)

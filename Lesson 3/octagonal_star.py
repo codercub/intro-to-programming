@@ -7,10 +7,10 @@ import turtle as t
 
 t.title("Octagonal Star With Rainbow Colors")
 t.pensize(3)
-colors = ["red", "orange", "yellow", "green", "blue", "indigo", "violet", "white"]
+COLORS = ["red", "orange", "yellow", "green", "blue", "indigo", "violet", "white"]
 
 for x in range(8):
-    t.color("black", colors[x])
+    t.color("black", COLORS[x])
     t.begin_fill()
     for y in range(2):
         t.forward(100)

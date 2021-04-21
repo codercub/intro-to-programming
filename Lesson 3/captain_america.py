@@ -8,11 +8,11 @@ import turtle as t
 t.title("Captain America's Shield")
 t.speed(0)
 t.bgcolor("black")
-colors = ["crimson", "white", "crimson", "dark blue"]
+COLORS = ["crimson", "white", "crimson", "dark blue"]
 
 # Circles
 for x in range(4):
-    t.dot(300 - 60 * x, colors[x])
+    t.dot(300 - 60 * x, COLORS[x])
 
 # Star
 t.penup()
