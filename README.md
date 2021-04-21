@@ -41,23 +41,23 @@
 - [Red Green Blue](https://en.wikipedia.org/wiki/RGB_color_model) өнгөний модел
 
 #### Хичээлийн файлууд:
-1. colofrul_square_spiral.py
+1. colorful_square_spiral.py
 2. colorful_star.py
 3. colorful_star_spiral.py
 4. captain_america.py
-5. octagonal_star.py
 6. bigger_circles1.py
 7. bigger_circles2.py
 8. bigger_circles3.py
 9. bigger_circles4.py
-10. infinity.py
-11. colorful_squares.py
-12. snowflake1.py
-13. snowflake2.py
-14. square_tunnel.py
-15. octagram_steps.py
-16. triangular_steps1.py
-17. triangular_steps2.py
+10. colorful_squares.py
+11. infinity.py
+13. snowflake1.py
+14. snowflake2.py
+15. square_tunnel.py
+16. octagonal_star.py
+17. octagram_steps.py
+18. triangular_steps1.py
+19. triangular_steps2.py
 ----------------
 ### Хичээл 4 - Нөхцөл:
 
