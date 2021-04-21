@@ -51,12 +51,13 @@
 8. bigger_circles3.py
 9. bigger_circles4.py
 10. infinity.py
-11. snowflake1.py
-12. snowflake2.py
-13. square_tunnel.py
-14. octagram_steps.py
-15. triangular_steps1.py
-16. triangular_steps2.py
+11. colorful_squares.py
+12. snowflake1.py
+13. snowflake2.py
+14. square_tunnel.py
+15. octagram_steps.py
+16. triangular_steps1.py
+17. triangular_steps2.py
 ----------------
 ### Хичээл 4 - Нөхцөл:
 
