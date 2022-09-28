@@ -58,6 +58,7 @@
 17. octagram_steps.py
 18. triangular_steps1.py
 19. triangular_steps2.py
+20. chrome.py
 ----------------
 ### Хичээл 4 - Нөхцөл:
 
