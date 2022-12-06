@@ -1,4 +1,4 @@
-# COURSE 1: Introduction to Programming
+# Introduction to Programming in Python
 
 ### Хичээл 1 - Turtle график:
 
