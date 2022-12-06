@@ -5,7 +5,6 @@
 
 import turtle as t
 
-t.speed(0)
 t.bgcolor("sky blue")
 t.pencolor("gold")
 t.pensize(5)
@@ -15,27 +14,11 @@ t.dot(200)
 
 # Tsatsrag 1
 t.penup()
-t.goto(110, 0)
+t.goto(0, 0)
+t.forward(110)
 t.pendown()
 t.forward(200)
 
-# Tsatsrag 2
-t.penup()
-t.goto(80, 80)
-t.pendown()
-t.left(45)
-t.forward(200)
-
-# Tsatsrag 3
-
-# Tsatsrag 4
-
-# Tsatsrag 5
-
-# Tsatsrag 6
-
-# Tsatsrag 7
-
-# Tsatsrag 8
+# For davtalt ashiglan hoorondoo ijil zaitai olon toonii tsatsraguud zurag (8, 12, 24, 36, geh met...)
 
 t.hideturtle()
