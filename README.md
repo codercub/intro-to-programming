@@ -30,7 +30,10 @@
 
 #### Хичээлийн файлууд:
 1. about_me.py
-2. rectangle.py
+2. dundaj.py
+3. pizza_shop.py
+4. bmi_calc.py
+5. rectangle.py
 ----------------
 ### Хичээл 3 - Дараалал:
 
