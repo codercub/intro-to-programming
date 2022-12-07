@@ -13,12 +13,13 @@
 2. square2.py
 3. triangle.py
 4. convex_polygon.py (даалгавартай)
-5. star_polygon.py (даалгавартай)
-6. number_eight1.py
+5. number_eight1.py
+6. stickman.py
 7. number_eight2.py
-8. stickman.py
-9. sun.py (даалгавартай)
-10. microsoft_logo.py
+8. sun.py (даалгавартай)
+9. red_star.py
+10. captain_america1.py (даалгавартай)
+11. microsoft_logo.py
 ----------------
 ### Хичээл 2 - Хувьсагч, оролт/гаралт:
 
