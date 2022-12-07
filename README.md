@@ -27,6 +27,7 @@
 - [Хувьсагч, өгөгдлийн төрлүүд](https://www.learnpython.org/en/Variables_and_Types)
 - [Хувьсагчийн санах ойн хамаарал, хуваарилалт](https://www.oreilly.com/library/view/python-in-a/0596001886/ch04s03.html)
 - [Обьект, хувьсагчийг нэрлэх нь](https://realpython.com/python-variables/)
+- [Програмын оролт, гаралт](https://en.wikibooks.org/wiki/A-level_Computing/AQA/Paper_1/Fundamentals_of_programming/Input_and_output)
 
 #### Хичээлийн файлууд:
 1. about_me.py
