@@ -4,7 +4,7 @@
 # Nov 16, 2020
 # Davtalt ashiglaagui huvilbar
 
-# Turtle nomiin sang ashiglay
+# Turtle sang ashiglay
 import turtle
 
 # Uragshaa 100 pixel-eer yavaarai, yast melhii!
