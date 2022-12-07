@@ -1,6 +1,6 @@
 # Introduction to Programming in Python
 
-### Хичээл 1 - Turtle график:
+### Хэсэг 1 - Turtle график:
 
 #### Агуулга:
 - [Turtle graphics гэж юу вэ?](https://en.wikipedia.org/wiki/Turtle_graphics)
@@ -21,7 +21,7 @@
 10. captain_america1.py (даалгавартай)
 11. microsoft_logo.py
 ----------------
-### Хичээл 2 - Хувьсагч, оролт/гаралт:
+### Хэсэг 2 - Хувьсагч, оролт/гаралт:
 
 #### Агуулга:
 - [Хувьсагч, өгөгдлийн төрлүүд](https://www.learnpython.org/en/Variables_and_Types)
