@@ -3,7 +3,7 @@
 # Written by @zmagsar
 # Nov 29, 2020
 
-# Ogogdson hemjees, ongonii daguu tegsh ontsogt zurah
+# Ogogdson hemjees, ongonii daguu tegsh ontsogtiig delgetsiin gold zurah
 
 import turtle as t
 
@@ -16,15 +16,18 @@ ongo = t.textinput("Color", "Ongo: ")
 
 # Ogogdson ongoor uzegnii ongiig taaruulah
 t.color(ongo, ongo)
+t.penup()
+t.goto(-urt / 2, orgon / 2)
+t.pendown()
 
 t.begin_fill()
 
 # Ogogdson hemjeesuudeer zurah
 for x in range(2):
     t.forward(urt)
-    t.left(90)
+    t.right(90)
     t.forward(orgon)
-    t.left(90)
+    t.right(90)
     
 t.end_fill()
 
