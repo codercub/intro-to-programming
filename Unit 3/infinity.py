@@ -5,7 +5,6 @@
 
 import turtle as t
 
-t.title("The Infinity")
 t.speed(0)
 t.colormode(255)
 t.bgcolor(255, 100, 0)

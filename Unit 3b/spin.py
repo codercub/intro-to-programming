@@ -7,7 +7,6 @@ import turtle as t
 
 length = 10
 
-t.speed(0)
 t.penup()
 t.goto(0, 250)
 t.pendown()
