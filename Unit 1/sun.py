@@ -14,9 +14,11 @@ t.dot(200)
 
 # Tsatsrag 1
 t.penup()
+t.goto()
 t.forward(110)
 t.pendown()
 t.forward(200)
+t.left(45)
 
 # For davtalt ashiglan hoorondoo ijil zaitai olon toonii tsatsraguud zurag (8, 12, 24, 36, geh met...)
 
