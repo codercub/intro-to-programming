@@ -14,7 +14,6 @@ t.dot(200)
 
 # Tsatsrag 1
 t.penup()
-t.goto(0, 0)
 t.forward(110)
 t.pendown()
 t.forward(200)
