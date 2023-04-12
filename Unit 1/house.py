@@ -1,3 +1,9 @@
+# house.py
+
+# Written by @zmagsar
+# Mar 18, 2023
+# Baishin zurah
+
 import turtle as t
 
 t.speed(0)
