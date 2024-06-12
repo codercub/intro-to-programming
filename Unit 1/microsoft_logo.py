@@ -2,13 +2,13 @@
 
 # Written by @zmagsar
 # Nov 17, 2020
-# Function ashiglaagui huvilbar
+# Non-function version
 
 import turtle as t
 
 t.speed(0)
 
-# Ulaan dorvoljin
+# Red square
 t.penup()
 t.goto(-250, 0)
 t.pendown()
@@ -19,7 +19,7 @@ for x in range(4):
     t.left(90)
 t.end_fill()
         
-# Tsenkher dorvoljin
+# Blue square
 t.penup()
 t.goto(-250, -55)
 t.pendown()
@@ -30,7 +30,7 @@ for x in range(4):
     t.left(90)
 t.end_fill()
 
-# Nogoon dorvoljin
+# Green square
 t.penup()
 t.goto(-195, 0)
 t.pendown()
@@ -41,7 +41,7 @@ for x in range(4):
     t.left(90)
 t.end_fill()
 
-# Shar dorvoljin
+# Yellow square
 t.penup()
 t.goto(-195, -55)
 t.pendown()
@@ -52,7 +52,7 @@ for x in range(4):
     t.left(90)
 t.end_fill()
 
-# Microsoft bichig
+# Microsoft writing
 t.penup()
 t.goto(-120, -50)
 t.pendown()

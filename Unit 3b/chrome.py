@@ -10,9 +10,7 @@ t.pensize(4)
 
 COLORS = ['forest green', 'gold', 'red']
 
-t.color('dodger blue')
-
-t.dot(44)
+t.dot(44, 'dodger blue')
 t.penup()
 t.goto(0, -55)
 t.pendown()
@@ -25,3 +23,9 @@ for x in range(40):
         t.left(119)
 
 t.hideturtle()
+
+t.penup()
+t.goto(-50, -150)
+t.pendown()
+t.pencolor("grey")
+t.write("CHROME", font = ("Segoe", 40, "normal"))
