@@ -108,3 +108,4 @@
 - [Мэдлэгээ шалгацгаая!](https://realpython.com/quizzes/)
 - [Яст мэлхийн уралдаан тоглоом хийх заавар](https://realpython.com/beginners-guide-python-turtle/#final-project-the-python-turtle-race)
 - [Python + Turtle ашиглан энгийн тоглоом хийх](https://repl.it/talk/learn/How-to-create-a-fairly-basic-game-using-Python-with-Turtle-Graphics/8182)
+- [Програмын удирдлагын бүтцийн тухай](https://www.bbc.co.uk/bitesize/guides/z433rwx/revision/1)
